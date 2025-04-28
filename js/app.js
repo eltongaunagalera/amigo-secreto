@@ -1,3 +1,7 @@
+// App desenvolvido por Elto Gaúna Galera em 17/04/2025
+// Desenvolvido com base nos conhecimentos adquiridos nos cursos de JavaScrit da Alura
+// HTML e CSS foram criados e fornecidos pela Alura. Todos os direitos reservados a eles.
+
 let listaAmigos = [];
 function adicionar() {
   let nomeAmigo = document.getElementById('nome-amigo').value;
